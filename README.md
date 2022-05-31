@@ -1,8 +1,8 @@
 # Hi, I'm Sarina. ✨
 
-I'm a recent graduate of the Grace Hopper Program from FullStack Academy, excited to join the world of software engineering 🌱.
+A recent graduate of the Grace Hopper Program at FullStack Academy, excited to join the world of software engineering 🌱. I'm passionate about UI / UX and front-end design!
 
-I have a passion for coding 💻 , graphic design 🎨 , illustration 👩‍🎨 , and gaming 🎮.
+I'm based in NYC and love coding 💻 , graphic design 🎨 , illustration 👩‍🎨 , and gaming 🎮. 
 
 ## 🌙 My Portfolio
 
@@ -21,8 +21,6 @@ Reach me [here](mailto:sarinachang7@gmail.com?subject=[GitHub]%20Source%20Han%20
 
 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
-
 
 <!--
 **s-arina/s-arina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
