@@ -1,6 +1,6 @@
 # Hi, I'm Sarina. ✨
 
-I'm a recent graduate of the Grace Hopper Program from FullStack Academy, excited to join the world of software engineering.
+I'm a recent graduate of the Grace Hopper Program from FullStack Academy, excited to join the world of software engineering 🌱.
 
 I have a passion for coding 💻 , graphic design 🎨 , illustration 👩‍🎨 , and gaming 🎮.
 
@@ -9,7 +9,9 @@ I have a passion for coding 💻 , graphic design 🎨 , illustration 👩‍�
 Check out my work at 
 [sarinachang.com](https://sarinachang.com)! 💙
 
-## 💻 Tech Stack
+Reach me [here](mailto:sarinachang7@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)!
+
+## 💻 Tools & Technologies
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
@@ -19,13 +21,11 @@ Check out my work at
 
 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
- 
-## 📧 Contact
 
-Reach me [here](mailto:sarinachang7@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)!
+
 
 <!--
-**s-arina/s-arina** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**s-arina/s-arina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
