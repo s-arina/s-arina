@@ -1,6 +1,6 @@
 # Hi, I'm Sarina. ✨
 
-A recent graduate of the Grace Hopper Program at FullStack Academy, excited to join the world of software engineering 🌱. I'm passionate about UI / UX and front-end design!
+An aspiring software engineer 🌱 who has recently graduated from the Grace Hopper Program at Fullstack Academy. I'm passionate about UI / UX and front-end design!
 
 I'm based in NYC and love coding 💻 , graphic design 🎨 , illustration 👩‍🎨 , and gaming 🎮. 
 
