@@ -22,6 +22,11 @@ Reach me [here](mailto:sarinachang7@gmail.com?subject=[GitHub]%20Source%20Han%20
 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
+## 📖 Currently Learning...
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+
 <!--
 **s-arina/s-arina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
